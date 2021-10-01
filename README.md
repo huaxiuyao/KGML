@@ -3,7 +3,7 @@
 code coming soon
 
 ## About
-Source code of the paper [Knowledge-Aware Meta-learning for Low-Resource Text Classification]().
+Source code of the paper [Knowledge-Aware Meta-learning for Low-Resource Text Classification](https://arxiv.org/abs/2109.04707).
 
 
 If you find this repository useful in your research, please cite the following paper:
